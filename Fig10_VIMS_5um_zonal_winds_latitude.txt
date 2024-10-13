@@ -1,7 +1,7 @@
 Zonal winds (U) measured by Cassini VIMS 5um images
-Latitude is planetocentric and wind & wind uncertainty is m/s 
+Latitude is planetocentric and the unit of wind & wind uncertainty is m/s 
 Raw data in different years is saved first (panel A of Fig. 10)
-Averaged wind in each latitude bin are saved second (panel B of Fig. 10)
+Averaged winds in each latitude bin are saved second (panel B of Fig. 10)
 
 Raw data of zonal winds in 2006
 latitude  zonal-wind  uncertainty
